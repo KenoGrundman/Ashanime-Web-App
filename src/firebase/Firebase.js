@@ -9,6 +9,7 @@ import {
 import { setUser } from "../redux/google-slice";
 import { firebaseConfig } from "./firebaseConfig";
 
+
 const envValue = process.env.REACT_APP_FIREBASE_CONFIG;
 
 // Initialize Firebase
